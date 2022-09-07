@@ -54,7 +54,7 @@ ol > li
 
 ol > li:hover
 {
-	background-color: #464646;
+	background-color: #000000;
 }
 
 ol > li:hover > a
@@ -85,7 +85,7 @@ ol > li > ul > li
 
 ol > li > ul > li:hover
 {
-	background-color: #464646;
+	background-color: #000000;
 }
 
 ol > li > ul > li:hover > a
